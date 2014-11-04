@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="src" path="/Piggy-core"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
+	<classpathentry exported="true" kind="con" path="org.springsource.ide.eclipse.gradle.classpathcontainer"/>
+	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
+	<classpathentry kind="src" path="gen"/>
+	<classpathentry kind="src" path="assets"/>
+	<classpathentry exported="true" kind="lib" path="/Piggy-core/build/libs/tween-engine-api-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Piggy-core/build/libs/tween-engine-api.jar"/>
+	<classpathentry kind="output" path="bin/classes"/>
+</classpath>
